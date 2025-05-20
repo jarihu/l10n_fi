@@ -1,0 +1,95 @@
+# Finland
+- name: Ahvenanmaa
+  country_id: '67'
+  id: '100'
+  abbr: FI-01
+
+- name: Etelä-Karjala
+  country_id: '67'
+  id: '101'
+  abbr: FI-02
+
+- name: Etelä-Pohjanmaa
+  country_id: '67'
+  id: '102'
+  abbr: FI-03
+
+- name: Etelä-Savo
+  country_id: '67'
+  id: '103'
+  abbr: FI-04
+
+- name: Kainuu
+  country_id: '67'
+  id: '104'
+  abbr: FI-05
+
+- name: Kanta-Häme
+  country_id: '67'
+  id: '105'
+  abbr: FI-06
+
+- name: Keski-Pohjanmaa
+  country_id: '67'
+  id: '106'
+  abbr: FI-07
+
+- name: Keski-Suomi
+  country_id: '67'
+  id: '107'
+  abbr: FI-08
+
+- name: Kymenlaakso
+  country_id: '67'
+  id: '108'
+  abbr: FI-09
+
+- name: Lappi
+  country_id: '67'
+  id: '109'
+  abbr: FI-10
+
+- name: Päijät-Häme
+  country_id: '67'
+  id: '110'
+  abbr: FI-11
+
+- name: Pirkanmaa
+  country_id: '67'
+  id: '111'
+  abbr: FI-12
+
+- name: Pohjanmaa
+  country_id: '67'
+  id: '112'
+  abbr: FI-13
+
+- name: Pohjois-Karjala
+  country_id: '67'
+  id: '113'
+  abbr: FI-14
+
+- name: Pohjois-Pohjanmaa
+  country_id: '67'
+  id: '114'
+  abbr: FI-15
+
+- name: Pohjois-Savo
+  country_id: '67'
+  id: '115'
+  abbr: FI-16
+
+- name: Satakunta
+  country_id: '67'
+  id: '116'
+  abbr: FI-17
+
+- name: Uusimaa
+  country_id: '67'
+  id: '117'
+  abbr: FI-18
+
+- name: Varsinais-Suomi
+  country_id: '67'
+  id: '118'
+  abbr: FI-19
