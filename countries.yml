@@ -1,4 +1,5 @@
-countries_067: 
+countries_067:
+  id: 67
   name: Finland
   iso3: FIN
   iso: FI
